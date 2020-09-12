@@ -1,6 +1,8 @@
-# Project 1 - Codesmith Android app task
+# Project 1 - CodePath Android app task
 
-Codesmith Todo is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
+👣👩🏻‍💻🏃🏽 _WORK IN PROGRESS_ 👣👩🏻‍💻🏃🏽
+
+CodePath Todo is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
 Submitted by: Garima Singh
 
@@ -31,7 +33,7 @@ Here's a walkthrough of implemented user stories:
 
 ## License
 
-    Copyright 2020 garima Singh
+    Copyright 2020 Garima Singh
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
